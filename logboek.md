@@ -11,4 +11,7 @@ Vandaag heb ik het tweede level gemaakt, een script voor de flag, en een sprite 
 Vandaag ben ik begonnen aan het derde level en heb ik een script gemaakt voor de bewegende obstakels. Ook heb ik een script gemaakt voor nep blokken waar je doorheen valt.
 
 # 17-12-2025
-Vandaag heb ik het vierde level gemaakt en een winnaars "level" gemaakt
+Vandaag heb ik het vierde level gemaakt en een winnaars "level" gemaakt.
+
+# 07-01-2026
+Vandaag heb ik een restart toegevoegt aan het einde van de game in het win "level" door middel van een restart button. 
