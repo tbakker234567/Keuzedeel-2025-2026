@@ -15,3 +15,6 @@ Vandaag heb ik het vierde level gemaakt en een winnaars "level" gemaakt.
 
 # 07-01-2026
 Vandaag heb ik een restart toegevoegt aan het einde van de game in het win "level" door middel van een restart button. 
+
+# 14-01-2026
+Vandaag heb ik een korte jump toegevoegt zodat de speler niet altijd hoog springt.
